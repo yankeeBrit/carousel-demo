@@ -1,0 +1,89 @@
+{
+    "carousel1": [
+      {
+        "type": "video",
+        "id": 1, 
+        "title": "Top Video 1", 
+        "thumbnail": "https://cdn.nba.com/manage/2024/10/Top-10-plays-Oct-22-2024.jpg", 
+        "duration": "3:45" 
+      },
+      {  
+        "type": "news",
+        "id": 2, 
+        "headline": "News Article 1", 
+        "image": "https://cdn.nba.com/manage/2024/10/lebron-bronny-lakers-opener.jpg", 
+        "summary": "A brief summary of news 1." 
+      },
+      { 
+        "type": "game", 
+        "id": 3,
+         "gameTitle": "Game 1", 
+         "thumbnail": "https://cdn.nba.com/manage/2024/10/white.jpg", 
+         "dateTime": "2024-10-08T14:00:00Z"
+      },
+      { "type": "video",
+        "id": 4, 
+        "title": "Top Video 2", 
+        "thumbnail": "https://cdn.nba.com/manage/2024/10/Full-Focus-Oct-22-2024.jpg", 
+        "duration": "2:30" 
+      },
+      { 
+        "type": "news",
+        "id": 5,
+        "headline": "News Article 2", 
+        "image": "https://cdn.nba.com/manage/2024/10/lebron-bronny-1.jpg", 
+        "summary": "A brief summary of news 2." 
+      },
+      { 
+        "type": "game",
+        "id": 6,
+        "gameTitle": "Game 2",
+        "thumbnail": "https://cdn.nba.com/manage/2024/10/jalen-johnson-jalen-suggs.jpg",
+        "dateTime": "2024-10-10T19:00:00Z"
+      }
+    ],
+    "carousel2": [
+      {
+        "type": "video",
+        "id": 1, 
+        "title": "Top Video 1", 
+        "thumbnail": "https://cdn.nba.com/manage/2024/10/GettyImages-2176205308-scaled-e1729521096268.jpg", 
+        "duration": "3:45" 
+      },
+      {  
+        "type": "news",
+        "id": 2, 
+        "headline": "News Article 1", 
+        "image": "https://cdn.nba.com/manage/2024/10/image-1.png", 
+        "summary": "A brief summary of news 1." 
+      },
+      { 
+        "type": "game", 
+        "id": 3,
+         "gameTitle": "Game 1", 
+         "thumbnail": "https://cdn.nba.com/manage/2024/10/Inside_the_NBA_Ranking_the_Top_50_players_2024_10_23T05_03_25-e1729661157724.jpg", 
+         "dateTime": "2024-10-08T14:00:00Z"
+      },
+      { "type": "video",
+        "id": 4, 
+        "title": "Top Video 2", 
+        "thumbnail": "https://cdn.nba.com/manage/2024/10/LeBron_James_coaches_up_Bronny_James_before_making_his_NBA_debut_2024_10_23T03_02_36.jpg", 
+        "duration": "2:30" 
+      },
+      { 
+        "type": "news",
+        "id": 5,
+        "headline": "News Article 2", 
+        "image": "https://cdn.nba.com/manage/2024/10/EMBIID-scaled.jpg", 
+        "summary": "A brief summary of news 2." 
+      },
+      { 
+        "type": "game",
+        "id": 6,
+        "gameTitle": "Game 2",
+        "thumbnail": "https://cdn.nba.com/manage/2024/10/celtics-banner.jpg",
+        "dateTime": "2024-10-10T19:00:00Z"
+      }
+    ]
+  }
+  
